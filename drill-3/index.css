@@ -55,9 +55,9 @@ header{
     align-items: center;
     justify-content: center;
     margin: 10px;
-    position: -webkit-sticky;
+    position: fixed;
     bottom: 10px;
-    float: right;
+    right: 10px;
 }
 /* 
 .question-container{
